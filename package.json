@@ -1,0 +1,11 @@
+{
+  "name": "melano-sales-portal",
+  "version": "1.0.0",
+  "description": "Sales operations web portal for Melano hair color products",
+  "scripts": {
+    "build": "echo 'Build process'",
+    "start": "echo 'Start process'"
+  },
+  "keywords": ["sales", "portal", "hair-color", "melano"],
+  "author": "Melano Sales Team"
+}
